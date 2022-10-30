@@ -1,0 +1,50 @@
+  479  ls
+  480  cd 02-Stu_Json_Practice/
+  481  ls
+  482  cd Unsolved/
+  483  ls
+  484  conda list requests
+  485  conda list json
+  486  conda activate dev
+  487  conda install -c anaconda requests
+  488  conda install -c jmcmurray json
+  489  pip install alpaca-trade-api
+  490  pip install python-dotenc
+  491  pip install python-dotenv
+  492  conda install -c pyviz hvplot geoviews
+  493  conda list hvplot
+  494  conda list geoviews
+  495  conda deactivate 
+  496  conda update conda
+  497  conda activate dev
+  498  jupyter lab
+  499  conda env list
+  500  ls
+  501  cd Documents/
+  502  ls
+  503  cd Fintech/
+  504  cd Module5\ Financial\ Simulations\ and\ APIs/
+  505  cd Starter_Code
+  506  git init
+  507  git remote
+  508  git checkout
+  509  git clone git@github.com:wf880180/Financial-planner.git
+  510  ls
+  511  cd Financial-planner
+  512  ls
+  513  git init
+  514  git remote
+  515  git checkout
+  516  git add financial_planning_tools.ipynb 
+  517  git commit -m "python code"
+  518  git add MCForecastTools.py 
+  519  git commit -m "MCForecastTools"
+  520  git add README.md 
+  521  git commit -m "update README.md"
+  522  git push origin main
+  523  git add financial_planning_tools.ipynb 
+  524  git commit -m "update python code"
+  525  git add financial_planning_tools.ipynb 
+  526  git commit -m "update python code"
+  527  git push origin main
+  528  history 50 > terminal_history.txt
